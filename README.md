@@ -1,4 +1,4 @@
-# Purdue Circle - Social Networking Platfor
+# Purdue Circle - Social Networking Platform
 Purdue Circle is a social networking platform that allows users to register, create posts, follow others, and engage with content. This README provides an overview of the platform's features, functionality, and usage.
 
 ## Table of Contents
