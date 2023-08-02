@@ -103,17 +103,3 @@ To get started with Purdue Circle, follow these steps:
 - Links and images are properly formatted.
 - Responsive UI that shows operation status appropriately.
 
-## Contributing
-
-Contributions are welcome! To contribute to Purdue Circle, follow these steps:
-
-1. Fork this repository.
-2. Create a new branch for your feature or fix.
-3. Implement your changes and commit them.
-4. Push your changes to your fork.
-5. Create a pull request to this repository's main branch.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
